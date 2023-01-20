@@ -1,0 +1,38 @@
+[
+    {
+            "firstName": "Virat ",
+            "lastName": "Kohli",
+            "role": "developer",
+            "fb": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "linkedIn": "https://www.linkedIn.com",
+            "image" : "https://resources.pulse.icc-cricket.com/ICC/photo/2022/12/11/8d534d16-ba75-4304-926f-4b5d85ec46da/Kohli-drought.jpg"
+    },
+    {
+        "firstName": "Cristiano",
+        "lastName": "Ronaldo",
+        "role": "Tester",
+        "fb": "https://www.facebook.com",
+        "twitter": "https://www.twitter.com",
+        "linkedIn": "https://www.linkedIn.com",
+        "image" : "https://www.planetsport.com/image-library/square/1200/c/cristiano-ronaldo-portugal-5-june-2022.jpg"
+},
+{
+    "firstName": "Lionel",
+    "lastName": "Messi",
+    "role": "QA Team",
+    "fb": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "linkedIn": "https://www.linkedIn.com",
+    "image" :"https://www.fcbarcelona.com/fcbarcelona/photo/2021/08/05/83b2408a-71fd-4fca-8a8c-d833bca5fbf2/ad-u-Messi.jpg"
+},
+{
+    "firstName": "Mr",
+    "lastName": "360",
+    "role": "Dev atEAM",
+    "fb": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "linkedIn": "https://www.linkedIn.com",
+    "image" :"https://img.cricketnmore.com/uploads/2020/10/ABD-Magic-Takes-RCB-To-7-wicket-Win-Over-RR.jpg"
+}
+]

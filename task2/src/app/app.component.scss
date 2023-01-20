@@ -1,0 +1,47 @@
+.container{
+  
+   display: flex;
+   justify-content: space-between;
+    
+ }
+ .smallcontainer{
+ 
+   flex: 1;
+   flex-direction: column;
+  
+  
+ width: 200px;
+    
+ }
+ 
+ .box1{
+   
+   
+    text-align: center;
+    flex-direction: column-reverse;
+    height: 400px;
+    background-color: skyblue;
+    width: 250px;
+    border: 2px solid;
+
+ }
+ .content{
+  margin-top: 100px;
+ }
+
+ img{
+     border-radius: 50%;
+ }
+ 
+ 
+.smallcontainer  :hover{
+  background-color: blanchedalmond;
+ 
+  box-shadow: 5px 5px 5px 5px black;
+
+
+
+
+}
+ 
+ 
